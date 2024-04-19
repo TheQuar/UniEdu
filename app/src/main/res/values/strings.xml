@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UniEdu</string>
+    <string name="introduction">Welcome to UniEdu – Your Online Career Advisor and University Information Hub! UniEdu is a cutting-edge mobile application designed to empower students and aspiring professionals with comprehensive guidance and valuable insights for their educational and career journeys. Our app serves as a one-stop destination, offering a wealth of information about universities, courses, and career paths, all conveniently accessible at your fingertips.</string>
+
+    <string name="signup">Sign up</string>
+
+    <string name="login">Log in</string>
+    <string name="back"><u>back</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

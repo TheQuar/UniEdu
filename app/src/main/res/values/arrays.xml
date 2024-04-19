@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="langList">
+        <item>Русский</item>
+        <item>Ўзбекча</item>
+        <item>O\'zbekcha</item>
+    </string-array>
+
+    <string-array name="my_action_tab_item">
+        <item>Experts</item>
+        <item>Events</item>
+    </string-array>
+
+
+</resources>
